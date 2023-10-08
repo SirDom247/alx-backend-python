@@ -1,1 +1,1 @@
-0x00. Python - Variable Annotations
+A repository for tasks on backend development with Python.
